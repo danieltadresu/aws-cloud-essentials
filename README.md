@@ -21,8 +21,26 @@ AWS is responsible for operating & maintaining the infrastructure :dizzy:
 
 :blue_book: About Reliability <br />
 
-AWS has SLAs & global reach. Tools & services for building reliable solutions <br />
+1. AWS has SLAs & global reach
+2. Tools & services for building reliable solutions
 
 :blue_book: About Agility, Elasticity & Scalibility <br />
 
-Scale up or down as needed, anytime. Instant acces to services & resources <br />
+1. Scale up or down as needed, anytime
+2. Instant acces to services & resources
+
+:blue_book: Pay-as-you go <br />
+
+1. Only pay for services used
+2. Don't pay for services you're not using (anymore)
+
+:blue_book: Global Reach & High Availability
+
+1. Choose perfect location
+2. Spread our workloads to ensure high availability
+
+***
+
+### On-premises Ventajas y desventajas (without Cloud Computing)
+
+On-premises: se refiere tener la infraestructura IT de manera local.
