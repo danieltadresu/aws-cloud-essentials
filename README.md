@@ -1,5 +1,7 @@
 https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cloud-computing.html
 
+https://ohmyz.sh/#install
+
 
 ### On-premises Advantages & Disadvantages (without Cloud Computing)
 
